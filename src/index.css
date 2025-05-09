@@ -1,0 +1,23 @@
+:root {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #141414;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Remove conflicting styles */
+/* No styles for a, body, button as they are defined in App.css */
+
+/* Keep media query but adjust for Netflix dark theme */
+@media (prefers-color-scheme: light) {
+  :root {
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #141414;
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "You",
+    "description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/You_Season_5.jpg",
+    "redirectUrl": "https://www.netflix.com/in/title/80211991"
+  },
+  {
+    "id": 2,
+    "title": "FOREVER",
+    "description": "Two commitment-phobic people with an intense attraction must navigate a complex journey to love, as they question whether their feelings will last forever.",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2M5Nzg2NTYtMWYyMy00M2QwLWIxNTItYjQxMzMzN2RlMTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "redirectUrl": "https://www.netflix.com/in/title/81450305"
+  },
+  {
+    "id": 3,
+    "title": "Black Mirror",
+    "description": "This sci-fi anthology series explores a twisted, high-tech near-future where humanity's greatest innovations and darkest instincts collide.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTgyNTBkNzctN2I3NC00NTA1LWJiMDMtYzA2MmYyZjc1NWQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+    "redirectUrl": "https://www.netflix.com/in/title/70264888"
+  },
+  {
+    "id": 4,
+    "title": "Havoc",
+    "description": "After a drug deal gone wrong, a bruised detective must fight his way through a criminal underworld to rescue a politician's estranged son.",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWJjMjdhNGEtZjEyMi00OTg2LTllMzQtN2JlZWNjYzI4YzFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "redirectUrl": "https://www.netflix.com/in/title/81212132"
+  },
+  {
+    "id": 5,
+    "title": "Heart Eyes",
+    "description": "After a chance encounter on the beach, two teens develop an emotional connection despite their vast socioeconomic differences.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Heart_Eyes_%282025%29_poster.jpg",
+    "redirectUrl": "https://www.netflix.com/in/title/81729149"
+  },
+  {
+    "id": 6,
+    "title": "Exterritorial",
+    "description": "While investigating a high-profile murder, a blazingly efficient detective uncovers shocking corruption in the heart of Tel Aviv.",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjVkMzI2MjAtYzA3NC00OGE1LWEyZDMtODc0YTc5NTZjYzFiXkEyXkFqcGc@._V1_.jpg",
+    "redirectUrl": "https://www.netflix.com/in/title/81652978"
+  }
+] 
